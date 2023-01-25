@@ -1,6 +1,6 @@
-**Main aim**: to cluster movies based on plot (text) similarity.
-**Language**: Python 3
-**Procedure**
+**Main aim**: to cluster movies based on plot (text) similarity.<br>
+**Language**: Python 3<br>
+**Procedure**<br>
 - Preprocessing (tokenizing , stemming)
 - Vectorizing with TfidfVectorizer
 - Clustering with Kmeans
